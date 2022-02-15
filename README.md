@@ -56,76 +56,22 @@ Declaration on CSS file
 
 ```css
 /*Inside CSS file*/
-.hafssmart{
-    font-family: "hafssmart8"
-}
-.hafs{
-    font-family: "hafs18"
-}
-.warsh{
-    font-family: "warsh10"
-}
-.shouba{
-    font-family: "shouba8"
-}
-.qaloon{
-    font-family: "qaloon10"
-}
-.doori{
-    font-family: "doori9"
-}
-.soosi{
-    font-family: "soosi9"
-}
-.bazzi{
-    font-family: "bazzi7"
-}
-.qumbul{
-    font-family: "qumbul7"
-}
-@font-face {
-    font-family: "hafssmart8";
-    src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/hafs-smart/font/hafssmart.8.woff2") format ("woff2"),
-         url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/hafs-smart/font/hafssmart.8.ttf") format ("truetype");
-}
-@font-face {
-    font-family: "hafs18";
-    src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/hafs/font/hafs.18.woff2") format ("woff2"),
-         url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/hafs/font/hafs.18.ttf") format ("truetype");
-}
-@font-face {
-    font-family: "warsh10";
-    src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/warsh/font/warsh.10.woff2") format ("woff2"),
-         url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/warsh/font/warsh.10.ttf") format ("truetype");
-}
-@font-face {
-    font-family: "shouba8";
-    src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/shouba/font/shouba.8.woff2") format ("woff2"),
-         url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/shouba/font/shouba.8.ttf") format ("truetype");
-}
-@font-face {
-    font-family: "qaloon10";
-    src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/qaloon/font/qaloon.10.woff2") format ("woff2"),
-         url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/qaloon/font/qaloon.10.ttf") format ("truetype");
-}
-@font-face {
-    font-family: "doori9";
-    src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/doori/font/doori.9.woff2") format ("woff2"),
-         url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/doori/font/doori.9.ttf") format ("truetype");
-}
-@font-face {
-    font-family: "soosi9";
-    src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/soosi/font/soosi.9.woff2") format ("woff2"),
-         url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/soosi/font/soosi.9.ttf") format ("truetype");
-}
-@font-face {
-    font-family: "bazzi7";
-    src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/bazzi/font/bazzi.7.woff2") format ("woff2"),
-         url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/bazzi/font/bazzi.7.ttf") format ("truetype");
-}
-@font-face {
-    font-family: "qumbul7";
-    src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/qumbul/font/qumbul.7.woff2") format ("woff2"),
-         url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/qumbul/font/qumbul.7.ttf") format ("truetype");
-}
+.hafssmart{font-family: "hafssmart8"}
+.hafs{font-family: "hafs18"}
+.warsh{font-family: "warsh10"}
+.shouba{font-family: "shouba8"}
+.qaloon{font-family: "qaloon10"}
+.doori{font-family: "doori9"}
+.soosi{font-family: "soosi9"}
+.bazzi{font-family: "bazzi7"}
+.qumbul{font-family: "qumbul7"}
+@font-face {font-family: "hafssmart8";src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/hafs-smart/font/hafssmart.8.woff2") format ("woff2"),url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/hafs-smart/font/hafssmart.8.ttf") format ("truetype");}
+@font-face {font-family: "hafs18";src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/hafs/font/hafs.18.woff2") format ("woff2"),url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/hafs/font/hafs.18.ttf") format ("truetype");}
+@font-face {font-family: "warsh10";src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/warsh/font/warsh.10.woff2") format ("woff2"),url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/warsh/font/warsh.10.ttf") format ("truetype");}
+@font-face {font-family: "shouba8";src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/shouba/font/shouba.8.woff2") format ("woff2"),url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/shouba/font/shouba.8.ttf") format ("truetype");}
+@font-face {font-family: "qaloon10";src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/qaloon/font/qaloon.10.woff2") format ("woff2"),url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/qaloon/font/qaloon.10.ttf") format ("truetype");}
+@font-face {font-family: "doori9";src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/doori/font/doori.9.woff2") format ("woff2"),url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/doori/font/doori.9.ttf") format ("truetype");}
+@font-face {font-family: "soosi9";src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/soosi/font/soosi.9.woff2") format ("woff2"),url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/soosi/font/soosi.9.ttf") format ("truetype");}
+@font-face {font-family: "bazzi7";src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/bazzi/font/bazzi.7.woff2") format ("woff2"),url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/bazzi/font/bazzi.7.ttf") format ("truetype");}
+@font-face {font-family: "qumbul7";src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/qumbul/font/qumbul.7.woff2") format ("woff2"),url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/qumbul/font/qumbul.7.ttf") format ("truetype");}
 ```
